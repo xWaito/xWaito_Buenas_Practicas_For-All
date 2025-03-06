@@ -1,7 +1,35 @@
 # xWaito enseñando Buenas Practicas  🚀
-![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
-![descripción de la imágen](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)
 
+
+![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
+
+
+![descripción de la imágen](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)
+##Índice
+
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
 
 Es un repositorio con la intensión de guiar futuros talentos del desarrollo !
 
