@@ -92,6 +92,6 @@ Seria un gusto, este repositorio es un esfuerzo comunitario, y tu ayuda es bienv
 
 
 ## 🌟 Mi historia  
-Soy alguien que está luchando por salir adelante y mejorar mi situación económica a través del desarrollo de software. 💻 Sé lo difícil que puede ser empezar sin recursos, por eso quiero que este repositorio sea un lugar donde todos podamos aprender y crecer juntos, sin importar nuestras circunstancias.  
+está luchando por salir adelante y mejorar mi situación económica a través del desarrollo de software. 💻 Sé lo difícil que puede ser empezar sin recursos, por eso quiero que este repositorio sea un lugar donde todos podamos aprender y crecer juntos, sin importar nuestras circunstancias.  
 
 🙏🏼 ¡Gracias por visitar este repositorio y ser parte de esta comunidad! Juntos podemos lograr grandes cosas. 😊🚀
