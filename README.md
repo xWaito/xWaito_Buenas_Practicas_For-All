@@ -22,7 +22,7 @@
 
 - ahi Ejemplos y ejercicios que siguen buenas prácticas para que aprendas a escribir código profesional.
 
- **📌principal_Buenas prácticas**:
+-**📌 principal_Buenas prácticas**
  
  - Consejos y guías para que tu código sea mantenible, eficiente y fácil de entender.
 
