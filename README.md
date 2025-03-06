@@ -72,6 +72,8 @@ No se trata solo de quedarnos con lo básico de la estructura; aunque no siempre
 > [!IMPORTANT]  
 > Información crucial necesaria para que los usuarios que quieran usar el repositorio .
 
+
+
 1. Clona el repositorio: `git clone https://github.com/xWaito/xWaito_Buenas_Practicas_For-All.git
 
 2. Explora las carpetas y elige el tema que te interese. 
@@ -92,6 +94,6 @@ Seria un gusto, este repositorio es un esfuerzo comunitario, y tu ayuda es bienv
 
 
 ## 🌟 Mi historia  
-está luchando por salir adelante y mejorar mi situación económica a través del desarrollo de software. 💻 Sé lo difícil que puede ser empezar sin recursos, por eso quiero que este repositorio sea un lugar donde todos podamos aprender y crecer juntos, sin importar nuestras circunstancias.  
+luchamos por salir adelante y mejorar todos los dias através del desarrollo de software. 💻 Sé lo difícil que puede ser empezar sin recursos, por eso quiero que este repositorio sea un lugar donde todos podamos aprender y crecer juntos, sin importar nuestras circunstancias de cada uno de nosotros .  
 
 🙏🏼 ¡Gracias por visitar este repositorio y ser parte de esta comunidad! Juntos podemos lograr grandes cosas. 😊🚀
