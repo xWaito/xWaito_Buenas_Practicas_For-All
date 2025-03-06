@@ -12,7 +12,7 @@
 
 ¡Hola! 👋 Soy Luis Felipe waitoto Garces developer , Bienvenido/a a este repositorio! :zap: Este proyecto tiene como objetivo guiar a futuros desarrolladores en su camino hacia el dominio :pushpin: de las habilidades más importantes en el mundo del desarrollo de software para poder asi conocer una mejor manera de "tratar" el codigo .
 
-**MIRA QUE TE PODES ENCONTAR VE ! 💻**
+**MIRA VE QUE TE PODES ENCONTAR! 💻**
 
 - **📌mira ve Conocimientos esenciales que te van a sevir mucho!**
 
