@@ -14,15 +14,15 @@
 
 **MIRA QUE TE PODES ENCONTAR VE ! 💻**
 
-- **📌Conocimientos esenciales que te van a sevir mucho mira ve!**
+- **📌mira ve Conocimientos esenciales que te van a sevir mucho!**
 
 - Los conceptos y técnicas mas importantes para empezar en el desarrollo.
 
-- **📌Código limpio y de calidad como debe ser!**
+- **📌Jum esucha, Código limpio y de calidad como debe ser!**
 
 - ahi Ejemplos y ejercicios que siguen buenas prácticas para que aprendas a escribir código profesional.
 
- **📌Buenas prácticas**:
+ **📌principal_Buenas prácticas**:
  
  - Consejos y guías para que tu código sea mantenible, eficiente y fácil de entender.
 
