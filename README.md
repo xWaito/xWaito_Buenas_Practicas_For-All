@@ -69,15 +69,27 @@ No se trata solo de quedarnos con lo básico de la estructura; aunque no siempre
 
 ## 🛠️ ¿Cómo usar este repositorio?  
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/guia-desarrollo.git`  
-2. Explora las carpetas y elige el tema que te interese.  
+> [!IMPORTANT]  
+> Información crucial necesaria para que los usuarios que quieran usar el repositorio .
+
+1. Clona el repositorio: `git clone https://github.com/xWaito/xWaito_Buenas_Practicas_For-All.git
+
+2. Explora las carpetas y elige el tema que te interese. 
+
 3. ¡Aprende, practica y comparte tus avances! 🚀  
 
 ## 🤝 ¿Quieres contribuir?  
-Este repositorio es un esfuerzo comunitario, y tu ayuda es bienvenida. Si tienes sugerencias, correcciones o nuevos ejercicios, sigue estos pasos:  
+
+Seria un gusto, este repositorio es un esfuerzo comunitario, y tu ayuda es bienvenida. Si tienes sugerencias, correcciones o nuevos ejercicios,
+
+ sigue estos pasos <>  
+
 1. Haz un fork de este repositorio.  
+
 2. Crea una rama con tu contribución: `git checkout -b mi-contribucion`.  
-3. Haz tus cambios y envía un Pull Request.  
+
+3. Haz tus cambios y envía un Pull Request. 
+
 
 ## 🌟 Mi historia  
 Soy alguien que está luchando por salir adelante y mejorar mi situación económica a través del desarrollo de software. 💻 Sé lo difícil que puede ser empezar sin recursos, por eso quiero que este repositorio sea un lugar donde todos podamos aprender y crecer juntos, sin importar nuestras circunstancias.  
