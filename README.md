@@ -81,8 +81,9 @@ No se trata solo de quedarnos con lo básico de la estructura; aunque no siempre
 3. ¡Aprende, practica y comparte tus avances! 🚀  
 
 ## 🤝 ¿Quieres contribuir? 
+
 > [!TIP]
-> Optional information to help a user be more successful. 
+>usuarios que quieran usar el repositorio para contribuir sigan estos tips 
 
 
 Seria un gusto, este repositorio es un esfuerzo comunitario, y tu ayuda es bienvenida. Si tienes sugerencias, correcciones o nuevos ejercicios,
