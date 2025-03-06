@@ -1,10 +1,6 @@
 # xWaito enseñando Buenas Practicas  🚀
-![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
-[![Build Status](https://github.com/usuario/repositorio/actions/workflows/main.yml/badge.svg)](https://github.com/usuario/repositorio/actions)
-![GitHub release](https://img.shields.io/github/v/release/usuario/repositorio)
-![GitHub license](https://img.shields.io/github/license/usuario/repositorio)
-![GitHub stars](https://img.shields.io/github/stars/usuario/repositorio?style=social)
-![GitHub top language](https://img.shields.io/github/languages/top/usuario/repositorio)
+![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-RED)
+
 
 Es un repositorio con la intensión de guiar futuros talentos del desarrollo !
 
