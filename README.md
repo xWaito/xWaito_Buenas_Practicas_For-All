@@ -1,4 +1,5 @@
 # xWaito enseñando Buenas Practicas  🚀
+
 ![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
 
 Es un repositorio con la intensión de guiar futuros talentos del desarrollo !
@@ -17,7 +18,7 @@ mira que Aquí podes encontrar:
 
 - ahi Ejemplos y ejercicios que siguen buenas prácticas para que aprendas a escribir código profesional.
 
- **Buenas prácticas :test_tube::bulb:**:
+ **Buenas prácticas :test_tube: :bulb:**:
  
  - Consejos y guías para que tu código sea mantenible, eficiente y fácil de entender.
 
