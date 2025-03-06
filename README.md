@@ -19,7 +19,7 @@
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+*[Acceso al proyecto](# Guía para Futuros Talentos del Desarrollo :fire:)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
