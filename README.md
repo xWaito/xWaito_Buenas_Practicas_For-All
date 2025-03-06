@@ -10,7 +10,7 @@
 
 # Guía para Futuros Talentos del Desarrollo :fire:
 
-¡Hola! 👋 Soy Luis Felipe waitoto Garces developer , Bienvenido/a a este repositorio! :zap: Este proyecto tiene como objetivo guiar a futuros desarrolladores en su camino hacia el dominio :pushpin: de las habilidades más importantes en el mundo del desarrollo de software para conocer una mejor manera de "tratar" el codigo .
+¡Hola! 👋 Soy Luis Felipe waitoto Garces developer , Bienvenido/a a este repositorio! :zap: Este proyecto tiene como objetivo guiar a futuros desarrolladores en su camino hacia el dominio :pushpin: de las habilidades más importantes en el mundo del desarrollo de software para poder asi conocer una mejor manera de "tratar" el codigo .
 
 mira que Aquí podes encontrar:
 
