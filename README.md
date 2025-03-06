@@ -7,7 +7,7 @@
 ![descripción de la imágen](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)
 
 
-Es un repositorio con la intensión de guiar futuros talentos del desarrollo !
+                      ¡Es un repositorio con la intensión de guiar futuros talentos del desarrollo!
 
 # Guía para Futuros Talentos del Desarrollo :fire:
 
