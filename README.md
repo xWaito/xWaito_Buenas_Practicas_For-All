@@ -14,7 +14,7 @@
 
 **MIRA VE QUE TE PODES ENCONTAR! 💻**
 
-- **📌mira ve Conocimientos esenciales que te van a sevir mucho!**
+- **📌mira ve, Conocimientos esenciales que te van a sevir mucho!**
 
 - Los conceptos y técnicas mas importantes para empezar en el desarrollo.
 
@@ -23,7 +23,7 @@
 - ahi Ejemplos y ejercicios que siguen buenas prácticas para que aprendas a escribir código profesional.
 
 
- - **📌 principal_Buenas prácticas**
+ - **📌 principal_Buenas_prácticas**
  
  - Consejos y guías para que tu código sea mantenible, eficiente y fácil de entender.
 
