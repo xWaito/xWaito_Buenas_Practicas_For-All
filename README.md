@@ -92,7 +92,7 @@ Seria un gusto, este repositorio es un esfuerzo comunitario, y tu ayuda es bienv
 
 1. Haz un fork de este repositorio.  
 
-2. Crea una rama con tu contribución: `git checkout -b mi-contribucion`.  
+2. Crea una rama con tu contribución: `git  checkout -b mi-contribucion`.  
 
 3. Haz tus cambios y envía un Pull Request. 
 
